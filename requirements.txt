@@ -3,4 +3,4 @@ pandas
 numpy
 tensorflow
 keras
-sklearn.utils
+sklearn
